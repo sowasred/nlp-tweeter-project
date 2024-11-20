@@ -11,10 +11,10 @@ def percentage(part, whole):
     return 100 * float(part)/float(whole)
 
 
-consumerKey = '100juqMSRXMi0RL35Barcyk3r'
-consumerSecret = 'a5H4h3vVJulI02Ege4AE6gVxAud2LQysHsNTn7eudwC1ZrkfbA'
-accessToken = '507832449-tMlg6VZderSdDT3fbn1BIbvSGxQbHv9c69sNUO6R'
-accessTokenSecret = 'wcKaAIFeNGtfhuGZj1gYU6E8kg5bwzwCh3NKZZaOm3wwz'
+consumerKey = ''
+consumerSecret = ''
+accessToken = ''
+accessTokenSecret = ''
 
 
 auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
